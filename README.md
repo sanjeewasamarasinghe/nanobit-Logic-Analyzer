@@ -8,3 +8,9 @@ This repository belongs to FPGA based Logic Analyzer.
 ('https://en.wikipedia.org/wiki/Field-programmable_gate_array') 
 මෙය විවිදාකාර නිෂ්පාදකයන් විසින් නිපදවා වෙිලදපොලට සපයන අතර,  මෙය භාවිතා කරන මෟදූකාංග ඉඡිනේරැවන් විසින් ඒම  කොටස තම  සේවාදායක්ගේ අවෂ්‍යතාවය
 යෝදා ගනු ලබයි.
+
+
+මෙම කාර්ය්‍ය සදහා ඒම කෝටස අවෂ්‍යතාවය අනුව වෙනස් කෝට ඇත. නමුදු  මෙහි කිුයාකාරිත්වය ගැන සැලකිලිමව කටයුතු කෝට ඇත.
+
+![image](https://user-images.githubusercontent.com/37544871/201342460-19b550d1-cefd-4e24-8304-061c8c9a75d1.png)
+
