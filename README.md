@@ -3,9 +3,6 @@ This repository belongs to FPGA based Logic Analyzer.
 
 තාර්කික පෙරලුම් යෙදවුම.
 
-
-![IMG_20221223_103835](https://user-images.githubusercontent.com/37544871/210313229-55c25524-beb0-49d8-b579-4b4f97275b65.jpg)
-
 ![IMG_20221223_103849](https://user-images.githubusercontent.com/37544871/210320214-b01bed77-b978-407a-af8b-9322534cc412.png)
 
 
