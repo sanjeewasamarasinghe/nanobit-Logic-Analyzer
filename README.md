@@ -6,6 +6,9 @@ This repository belongs to FPGA based Logic Analyzer.
 
 ![IMG_20221223_103835](https://user-images.githubusercontent.com/37544871/210313229-55c25524-beb0-49d8-b579-4b4f97275b65.jpg)
 
+![IMG_20221223_103849](https://user-images.githubusercontent.com/37544871/210320214-b01bed77-b978-407a-af8b-9322534cc412.png)
+
+
 
 මෙම යෙදවුම මගින් බලාපොරෙත්තු වන්නෙ අදාල තරංගයේ සක්කිූය තරංග ආකාරය පහදා ගැනිම වෙි. 
 මෙය  සදහා  යොදා ගැ‌නෙන්නේ FPGA නැමැති දෘඩඅංග කොටස ‌‌වෙි.
